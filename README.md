@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=omeralmaci)
+**Languages** ; C,  Python, C#, Flutter, Dart, Java
+
+**Hardware** ; ARM, Raspberry-PI, PIC
+
+**OS**       ; Linux, Windows
+
+**Programs** ; CubeIDE, Eclipse, VS, Altium, Proteus, SolidWorks, AutoCAD
+
+![](https://komarev.com/ghpvc/?username=omeralmaci&color=yellowgreen&style=flat-square)
 
 <!--
 **omeralmaci/omeralmaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
