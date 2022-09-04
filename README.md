@@ -51,23 +51,18 @@
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <p align="center"> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-logo.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.getfedora.org" target="_blank" rel="noreferrer"> <img src="https://fedoraproject.org/w/uploads/archive/e/e5/20110717032101%21Fedora_infinity.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="css3" width="40" height="40"/> </a> 
 <p align="center"> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<p align="center"> 
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
 </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
-</p></p></p></p></p></p>
+</p></p></p></p></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omeralmaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="omeralmaci" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omeralmaci&show_icons=true&theme=dark&locale=en" alt="omeralmaci" /></p>
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omeralmaci&theme=dark" alt="omeralmaci" /></p>
-
