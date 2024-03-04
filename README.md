@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **C, Python and Embedded Systems**
 
-- 📫 How to reach me **omeralmaci@gmail.com**
-
 - 📄 Know about my experiences [linkedin.com/in/omeralmaci/](https://www.linkedin.com/in/omeralmaci/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omeralmaci&label=Profile%20views&color=0e75b6&style=flat-square" alt="omeralmaci" /> </p>
